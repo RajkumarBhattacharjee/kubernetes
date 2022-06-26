@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
        - name: app
-         image: rajkkumar/image1
+         image: rajkkumar/image1:v1
 ---
 kind: Service
 apiVersion: v1
